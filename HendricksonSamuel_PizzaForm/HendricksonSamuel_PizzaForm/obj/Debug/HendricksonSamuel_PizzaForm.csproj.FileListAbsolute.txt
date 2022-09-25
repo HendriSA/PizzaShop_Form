@@ -1,0 +1,9 @@
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\MyPrograms\Ch12\HendricksonSamuel_PizzaForm\HendricksonSamuel_PizzaForm\bin\Debug\HendricksonSamuel_PizzaForm.exe.config
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\MyPrograms\Ch12\HendricksonSamuel_PizzaForm\HendricksonSamuel_PizzaForm\bin\Debug\HendricksonSamuel_PizzaForm.exe
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\MyPrograms\Ch12\HendricksonSamuel_PizzaForm\HendricksonSamuel_PizzaForm\bin\Debug\HendricksonSamuel_PizzaForm.pdb
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\MyPrograms\Ch12\HendricksonSamuel_PizzaForm\HendricksonSamuel_PizzaForm\obj\Debug\HendricksonSamuel_PizzaForm.csprojAssemblyReference.cache
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\MyPrograms\Ch12\HendricksonSamuel_PizzaForm\HendricksonSamuel_PizzaForm\obj\Debug\HendricksonSamuel_PizzaForm.Form1.resources
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\MyPrograms\Ch12\HendricksonSamuel_PizzaForm\HendricksonSamuel_PizzaForm\obj\Debug\HendricksonSamuel_PizzaForm.Properties.Resources.resources
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\MyPrograms\Ch12\HendricksonSamuel_PizzaForm\HendricksonSamuel_PizzaForm\obj\Debug\HendricksonSamuel_PizzaForm.csproj.GenerateResource.cache
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\MyPrograms\Ch12\HendricksonSamuel_PizzaForm\HendricksonSamuel_PizzaForm\obj\Debug\HendricksonSamuel_PizzaForm.exe
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\MyPrograms\Ch12\HendricksonSamuel_PizzaForm\HendricksonSamuel_PizzaForm\obj\Debug\HendricksonSamuel_PizzaForm.pdb
